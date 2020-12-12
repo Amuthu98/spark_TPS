@@ -1,4 +1,0 @@
-# spark_TPS
-
-
-Amrta Devy BALASOUPRAMANIANE
